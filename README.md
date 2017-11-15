@@ -45,6 +45,8 @@ b-add pcl6 file in 'bin' directory full address in your PATH Value of your Syste
     f.1-find ALLOWED_HOST=['127.0.0.1'] and replace your computer or server IP Address with 127.0.0.1 .
   g-go to the webserver directory and run 'run.bat' test: open your browser and type [yourIPAddress:8090] you must see Login Page.
     g.1-Login User=Admin       Password: !1asdfghj
+  
+  *****( Before Click Convert , Paste Your PCL6 File's in document folder, all of file's converted to PDF Format and readable.)
   ScreenShots:
   
   ![PCL6](http://s9.picofile.com/file/8311835076/01_login.png)
