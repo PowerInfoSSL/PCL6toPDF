@@ -47,4 +47,4 @@ b-add pcl6 file in 'bin' directory full address in your PATH Value of your Syste
     g.1-Login User=Admin       Password: !1asdfghj
   ScreenShots:
   
-  
+  (http://s9.picofile.com/file/8311835076/01_login.png)
